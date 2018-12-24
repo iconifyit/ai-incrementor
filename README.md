@@ -1,18 +1,15 @@
 # Ai Incrementor
 
-Simple JS script to auto-increment values in an Illustrator document.
+A simple JS script to auto-increment values in an Illustrator document.
 
-# CREDITS
- 
-You are free to use, modify, and distribute this script as you see fit. No credit is required but would be greatly appreciated. 
 
-Scott Lewis
-* scott@atomiclotus.net
-* https://atomiclotus.net
+## Support Open Source Software
 
-# DISCLAIMER OF LIABILITY
+Donations help open source developers, who are often self-employed freelancers, continue to create free resources. You can donate to this project using the button below.
 
-THIS SCRIPT IS OFFERED AS-IS WITHOUT ANY WARRANTY OR GUARANTEES OF ANY KIND. YOU USE THIS SCRIPT COMPLETELY AT YOUR OWN RISK AND UNDER NO CIRCUMSTANCES WILL THE DEVELOPER AND/OR DISTRIBUTOR OF THIS SCRIPT BE HELD LIABLE FOR DAMAGES OF ANY KIND INCLUDING LOSS OF DATA OR DAMAGE TO HARDWARE OR SOFTWARE. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS SCRIPT.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SZQVVSQDZS75A)
+
+***
 
 ## Installation
 
@@ -36,3 +33,15 @@ For now, this is a dead-simple implementation. In a future version I will add th
 2. The `${#}` token should be the *only* thing in the text frame.
 3. Go to _File > Scripts > Ai Incrementor_ and watch the magic. (It is super fast).
 4. You can simply do _Undo_ to revert back to the `${#}` tokens if you need to change something.
+
+## CREDITS
+ 
+You are free to use, modify, and distribute this script as you see fit. No credit is required but would be greatly appreciated. 
+
+Scott Lewis
+* scott@atomiclotus.net
+* https://atomiclotus.net
+
+## DISCLAIMER OF LIABILITY
+
+THIS SCRIPT IS OFFERED AS-IS WITHOUT ANY WARRANTY OR GUARANTEES OF ANY KIND. YOU USE THIS SCRIPT COMPLETELY AT YOUR OWN RISK AND UNDER NO CIRCUMSTANCES WILL THE DEVELOPER AND/OR DISTRIBUTOR OF THIS SCRIPT BE HELD LIABLE FOR DAMAGES OF ANY KIND INCLUDING LOSS OF DATA OR DAMAGE TO HARDWARE OR SOFTWARE. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS SCRIPT.
