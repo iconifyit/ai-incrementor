@@ -16,8 +16,7 @@ Donations help open source developers, who are often self-employed freelancers, 
 1. Place the ai-incrementor.jsx script in Applications > Adobe Illustrator > Presets > en_US > Scripts
 2. Restart Adobe Illustrator to activate the scripts
 3. The script will be available under menu File > Scripts > Ai Incrementor
-4. Select File > Scripts > Ai Incrementor
-
+4. You can access the script at _File > Scripts > Ai Incrementor_ (Read the Usage instructions below first).
 ## Usage
 
 You can add an auto-incrementing "counter" anywhere in your Illustrator document as long as you follow these instructions *exactly*. The script uses a "replacement token" to indicate where the counter should go. The token is `${#}` (dollar sign + left curly bracket + pound sign + right curly bracket).
