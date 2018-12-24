@@ -17,9 +17,6 @@ Donations help open source developers, who are often self-employed freelancers, 
 2. Restart Adobe Illustrator to activate the scripts
 3. The script will be available under menu File > Scripts > Ai Incrementor
 4. Select File > Scripts > Ai Incrementor
-5. A new dialog will open with a list of all saved sessions (if you have any) and three buttons: Close, Open, Save. Select a saved session from the list, or double-click the name of the session to open it. Or, click "Save" to save the current session.
-6. Sessions are saved in ~/ai-sessions/ai-YYYY-MM-DD-r[0-9].json
-7. Errors are saved in ~/ai-sessions/ai-log-YYYY-MM-DD-r[0-9].txt
 
 ## Usage
 
