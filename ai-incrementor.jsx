@@ -13,6 +13,9 @@
  * document.
  */
 
+#target illustrator
+#script "Ai Incrementor"
+
 var slugs = [];
 var padlength = 1;
 
