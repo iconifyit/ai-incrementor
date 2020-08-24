@@ -5,7 +5,7 @@
  * A simple JS script for Adobe illustrator to auto-increment values in an illustrator document.
  * To use this script, simply add the token ${#} in your document anywhere you want the script
  * to insert a counter. If you include the token ten times in your document, the script with
- * replace each instance of teh token with the next number in the counter.
+ * replace each instance of the token with the next number in the counter.
  *
  * IMPORTANT: The token MUST be in a text frame by itself meaning it must be a separate
  * text object from any others. In a future version I will add the ability to increment
